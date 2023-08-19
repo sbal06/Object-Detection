@@ -24,7 +24,7 @@ This project aims to use object detection methods such as Sliding Window and YOL
 
 ### YOLOV5 Medium Version: 
 
-https://github.com/sbal06/Object-Detection/assets/101956177/9b71e09b-9636-472a-94c2-7cdc3713a1d2"
+https://github.com/sbal06/Object-Detection/assets/101956177/9b71e09b-9636-472a-94c2-7cdc3713a1d2
 
 
 
