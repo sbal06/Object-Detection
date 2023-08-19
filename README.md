@@ -5,8 +5,11 @@ This project aims to use object detection methods such as Sliding Window and YOL
 ### NeuralNetwork.ipynb
 - Loads a vehicle dataset from the University of Toronto, creates a simple Neural Network to predict class images.
 
-### Sliding Window 
-- Implementation of the sliding window approach throughout the entire image. The car and truck images were trained from the vehicle dataset (trained using a chosen CNN and VGG16 model). Then, each crop of the image was responsible if it's a car, truck, or background.
+### SlidingWindow.ipynb
+- Implementation of the sliding window approach throughout the entire image. The car and truck images were trained from the vehicle dataset (trained using a chosen CNN and VGG16 model). Then, each crop of the image was responsible if it's a car, truck, or background. Achieved a 73.33% accuracy.
+
+
+
 
   
 
