@@ -24,10 +24,7 @@ YOLOV3:
 
 YOLOV5 Medium Version: 
 
-
-<p align = "center" >
- <image src = "https://github.com/sbal06/Object-Detection/assets/101956177/9b71e09b-9636-472a-94c2-7cdc3713a1d2" width = "250" height = "250">
-
+ <image src = "https://github.com/sbal06/Object-Detection/assets/101956177/9b71e09b-9636-472a-94c2-7cdc3713a1d2" width = "250" >
 
 
 
