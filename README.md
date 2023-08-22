@@ -22,11 +22,18 @@ This project aims to use object detection methods such as Sliding Window and YOL
 
 ### YOLOV3:
 
+
+
+https://github.com/sbal06/Object-Detection/assets/101956177/76cc4494-b440-4d0e-8136-f5013902836c
+
+
+
+
 ### YOLOV5 Medium Version: 
 
 https://github.com/sbal06/Object-Detection/assets/101956177/9b71e09b-9636-472a-94c2-7cdc3713a1d2
 
-
+The above video is slowed down to 12 fps (frames per second) to make the comparison with YOLOV3.
 
 ## References:
 
