@@ -12,9 +12,9 @@ This project aims to use object detection methods such as Sliding Window and YOL
   
 
 ## How to Run
-To run the YOLOV5 model, clone the entire repository first; change the file path in the code to the file path of your video file. You can also change the frames per second, fontScale, or color to your preferences.
+To use the YOLOV5 model, clone the entire repository first; change the file path in the code to the file path of your video file. You can also change the frames per second, fontScale, or color to your preferences.
 
-To run the YOLOV3 model, just run the code cells in order, but change the file path at the very end of the notebook to the path of your video file.
+To use the YOLOV3 model, run the code cells in order, but change the file path at the very end of the notebook to the path of your video file.
 
 ## Final Results
 
