@@ -9,14 +9,12 @@ This project aims to use object detection methods such as Sliding Window and YOL
 - Implementation of the sliding window approach throughout the entire image. The car and truck images were trained from the vehicle dataset (trained using a chosen CNN and VGG16 model). Then, each crop of the image was responsible if it's a car, truck, or background. Achieved a 73.33% accuracy.
 
 
-
-
   
 
-
-
-
 ## How to Run
+To run the YOLOV5 model, clone the entire repository first; change the file path in the code to the file path of your video file. You can also change the frames per second, fontScale, or color to your preferences.
+
+To run the YOLOV3 model, just run the code cells in order, but change the file path at the very end of the notebook to the path of your video file.
 
 ## Final Results
 
