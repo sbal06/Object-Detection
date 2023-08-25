@@ -22,7 +22,10 @@ To use the YOLOV3 model, run the code cells in YOLOV3 notebook in order, but cha
 
 
 
-https://github.com/sbal06/Object-Detection/assets/101956177/76cc4494-b440-4d0e-8136-f5013902836c
+
+Uploading YOLOV3InspiritAI.mp4…
+
+
 
 
 
@@ -31,8 +34,9 @@ https://github.com/sbal06/Object-Detection/assets/101956177/76cc4494-b440-4d0e-8
 
 
 
+https://github.com/sbal06/Object-Detection/assets/101956177/96c9e014-d262-4194-9a47-d53df1639fa1
 
-https://github.com/sbal06/Object-Detection/assets/101956177/2ec1c781-60ed-465b-9064-c10def4d8a1f
+
 
 
 ## References:
