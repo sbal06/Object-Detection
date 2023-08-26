@@ -14,7 +14,7 @@ Originally,
 
 
 ## How to Run
-To use the YOLOV5 model, clone the entire repository first; change the file path in the code to the file path of your video file. You can also change the frames per second, fontScale, or color to your preferences.
+To use the YOLOV5 model, clone the entire repository first; change the file path in the YOLOV5 code to the file path of your video file. You can also change the frames per second, fontScale, or color to your preferences.
 
 To use the YOLOV3 model, run the code cells in YOLOV3 notebook in order, but change the file path at the very end of the notebook to the path of your video file. The output mp4 file should be under the contents section of the Colab notebook.
 
