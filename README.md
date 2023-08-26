@@ -9,8 +9,10 @@ This project aims to use object detection methods such as Sliding Window and YOL
 ### SlidingWindow.ipynb
 - Implementation of the sliding window approach throughout the entire image. The car and truck images were trained from the vehicle dataset (trained using a chosen CNN and VGG16 model). Then, each crop of the image was responsible if it's a car, truck, or background. The CNN model achieved a 73.33% accuracy.
 
-## YOLOV5 Implementation/Challenges
-Originally, 
+## YOLOV5 Implementation Challenges
+1. Initially, the frames per second setting was manually adjusted to different values like 10.0, 15.0, and 20.0. However, the resulting videos didn't synchronize well with the YOLOV3 model—some videos played too quickly, while others were too slow; thus the fps = vid.get(cv2.CAP_PROP_FPS) method provided a frames per second that was orginally created when the video was recorded.
+
+2. Obtaining the percentage-based confidence score presented difficulties due to its Torch tensor format. To round the confidence score to the nearest percent, the code is employed: confidence_score_percent = torch.round(torch.tensor([confidence_score * 100.0]), decimals = 0).item(). The item() function is used to extract the value of the single-element PyTorch tensor. 
 
 
 ## How to Run
