@@ -23,18 +23,10 @@ To use the YOLOV3 model, run the code cells in YOLOV3 notebook in order, but cha
 ## Final Results
 
 ### YOLOV3:
-
-##https://github.com/sbal06/Object-Detection/assets/101956177/9cb92734-cd6d-4fb3-9fab-014171358527
-
 https://github.com/sbal06/Object-Detection/assets/101956177/a0603893-02ee-4d9a-a54b-86f23da49938
 
-
 ### YOLOV5 Medium Version: 
-
-#https://github.com/sbal06/Object-Detection/assets/101956177/96c9e014-d262-4194-9a47-d53df1639fa1
-
 https://github.com/sbal06/Object-Detection/assets/101956177/25c96415-3495-47ca-b1c2-8c019bf1ab17
-
 
 - An interesting observation to make is that YOLOV5m model detects more objects than the YOLOV3 model, but with a lower confidence score on the video file. For example, in the initial frame, the YOLOV3 model predicted the nearest car with a confidence score of 94% compared to the confidence score of 78% from the YOLOV5 model. In the future, experimenting with the different sizes of the YOLOV5 models could offer a valuable basis for comparing against other object detection architectures.
 ## References:
