@@ -1,6 +1,6 @@
 
 # YOLO Framework Object-Detection
-This project aims to use object detection methods such as Sliding Window and YOLO algorithm on real-time video files. The YOLOV3 notebook and model were built in the Inspirit AI scholars program.
+This project aims to use object detection methods such as Sliding Window and YOLO algorithm on real-time video files. 
 
 ## Notebooks
 ### NeuralNetwork.ipynb
